@@ -1,0 +1,10 @@
+* *mylinux*
+** 配置文件
+*** vim
+*** neovim
+*** dwm
+*** awesome
+*** emacs
+*** doom-emacs
+*** i3-config
+** 错误记录
