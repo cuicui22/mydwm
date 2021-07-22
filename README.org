@@ -20,5 +20,7 @@
 2. 免费节点很多，耐心试
 *** brew安装
 1. brew听说很好用，但是服务器在国外，所以需要梯子，但是还是不行，最后找到了国内大神做的
-   `/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN`
+#+BEGIN_SRC bash
+/bin/zsh -c "$(curl -fsSL https://gitee.com/cunkai/HomebrewCN
+#+END_SRC
 2. brew更好
